@@ -1,5 +1,5 @@
 # ALMA-2013.1.01225.S
-This repository stores reduction scripts for ALMA 2013.1.01225.S and scripts to produce figures used in Kameno+2020, ApJ, 895, 73 https://ui.adsabs.harvard.edu/link_gateway/2020ApJ...895...73K/doi:10.3847/1538-4357/ab8bd6
+This repository stores reduction scripts for ALMA 2013.1.01225.S and scripts to produce figures used in Kameno+2020, ApJ, 895, 73 https://iopscience.iop.org/article/10.3847/1538-4357/ab8bd6
 
 # CASA Reduction Scripts (prepared for CASA 5.6.0)
 - B6/Xa76868_X2423.py             : Band-6 reduction for ExecBlock uid://A002/Xa76868/X2423
